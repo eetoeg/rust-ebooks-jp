@@ -29,4 +29,4 @@ If a book fails to build, it's skipped and a GitHub issue is created automatical
 
 ## Author
 
-Hi, I'm NOT Artur! Feel free to connect with him on [LinkedIn](https://www.linkedin.com/in/artursulej/) if you'd like to chat him about Rust, open source or anything tech-related! (credits to him)
+This was made possible by [Artur's repository](https://github.com/Artur-Sulej/rust-ebooks). Feel free to connect with him on [LinkedIn](https://www.linkedin.com/in/artursulej/) if you'd like to chat him about Rust, open source or anything tech-related! (credits to him)
