@@ -2,7 +2,7 @@
 
 [![GitHub Pages Build Status](https://github.com/eetoeg/rust-ebooks-ja/actions/workflows/publish.yml/badge.svg)](https://github.com/eetoeg/rust-ebooks-ja/actions/workflows/publish.yml)
 
-This project automatically builds and publishes the latest versions of top Rust books as eBooks – in EPUB, AZW3, MOBI and PDF formats.
+This project automatically builds and publishes the latest versions of top Rust books (Japanese version) as eBooks – in EPUB, AZW3, MOBI and PDF formats.
 
 Built fresh from source. Updated daily. Ready for offline reading.
 
