@@ -1,8 +1,8 @@
 [book]
 authors = ["eetoeg"]
-language = "jp"
+language = "ja"
 src = "src"
 title = "Rust eBooks"
 
 [output.html]
-git-repository-url = "https://github.com/eetoeg/rust-ebooks-jp"
+git-repository-url = "https://github.com/eetoeg/rust-ebooks-ja"
