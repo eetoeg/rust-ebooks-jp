@@ -1,6 +1,6 @@
 # Rust eBooks Nightly
 
-[![GitHub Pages Build Status](https://github.com/eetoeg/rust-ebooks/actions/workflows/publish.yml/badge.svg)](https://github.com/eetoeg/rust-ebooks/actions/workflows/publish.yml)
+[![GitHub Pages Build Status](https://github.com/eetoeg/rust-ebooks-jp/actions/workflows/publish.yml/badge.svg)](https://github.com/eetoeg/rust-ebooks-jp/actions/workflows/publish.yml)
 
 This project automatically builds and publishes the latest versions of top Rust books as eBooks – in EPUB, AZW3, MOBI and PDF formats.
 
@@ -11,19 +11,19 @@ Enjoy Rust books on your favorite device!
 ## Access the Books
 
 Download the latest eBooks:  
-[https://eetoeg.github.io/rust-ebooks](https://eetoeg.github.io/rust-ebooks/)
+[https://eetoeg.github.io/rust-ebooks-jp](https://eetoeg.github.io/rust-ebooks-jp/)
 
 Browse the source code:  
-[https://github.com/eetoeg/rust-ebooks](https://github.com/eetoeg/rust-ebooks)
+[https://github.com/eetoeg/rust-ebooks-jp](https://github.com/eetoeg/rust-ebooks-jp)
 
 ## How It Works
 
-Every day, a [GitHub Actions workflow](https://github.com/eetoeg/rust-ebooks/actions/workflows/publish.yml):
+Every day, a [GitHub Actions workflow](https://github.com/eetoeg/rust-ebooks-jp/actions/workflows/publish.yml):
 
 - Clones each book’s repository
 - Builds the content with `mdBook`
 - Converts it to eBook and PDF formats using Calibre
-- Publishes the results to [GitHub Pages](https://eetoeg.github.io/rust-ebooks/)
+- Publishes the results to [GitHub Pages](https://eetoeg.github.io/rust-ebooks-jp/)
 
 If a book fails to build, it's skipped and a GitHub issue is created automatically. Other books continue building as usual.
 
