@@ -17,10 +17,25 @@ env:
       website: https://doc.rust-jp.rs/book-ja/
       title: The Rust Programming Language
 
+    - id: rust-by-example-ja
+      repo: https://github.com/rust-lang-ja/rust-by-example-ja.git
+      website: https://doc.rust-jp.rs/rust-by-example-ja/
+      title: Rust By Example
+
+    - id: rustonomicon
+      repo: https://github.com/rust-lang-ja/nomicon-ja.git
+      website: https://doc.rust-jp.rs/nomicon-ja/
+      title: The Rustonomicon
+
     - id: embedded-book-ja
       repo: https://github.com/tomoyuki-nakabayashi/book.git
       website: https://tomoyuki-nakabayashi.github.io/book/
       title: The Embedded Rust Book
+
+    - id: atcoder-rust-resources
+      repo: https://github.com/rust-lang-ja/atcoder-rust-resources.git
+      website: https://doc.rust-jp.rs/atcoder-rust-resources/
+      title: AtCoderコンテストにRustで参加するための資料集
 
 jobs:
   build:
