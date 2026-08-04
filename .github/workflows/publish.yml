@@ -12,12 +12,12 @@ permissions:
 
 env:
   BOOKS: |
-    - id: rust-book
+    - id: rust-book-ja
       repo: https://github.com/rust-lang-ja/book-ja.git
       website: https://doc.rust-jp.rs/book-ja/
       title: The Rust Programming Language
 
-    - id: embedded-book
+    - id: embedded-book-ja
       repo: https://github.com/tomoyuki-nakabayashi/book.git
       website: https://tomoyuki-nakabayashi.github.io/book/
       title: The Embedded Rust Book
